@@ -1,5 +1,3 @@
-# Ghozi
-Iptv
 
 #EXTM3U
 #EXTINF:0
@@ -2481,7 +2479,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",PTC Music (720p)
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="lINDIA",MH One Music (1080p)
+#EXTINF:0 tvg-id="ext" group-title="INDIA",MH One Music (1080p)
 https://mhonepunjabi.in/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -2992,7 +2990,7 @@ http://iptvs.life:8080/osec/c5176e377c82/193125
 http://iptvs.life:8080/osec/c5176e377c82/283939
 #EXTINF:0 tvg-id="ext" group-title="Channels INDIA",Relax TV
 http://iptvs.life:8080/osec/c5176e377c82/287018
-#EXTINF:0 tvg-id="ext" group-title="Channels" INDIA,Reporter
+#EXTINF:0 tvg-id="ext" group-title="Channels INDIA,Reporter
 http://iptvs.life:8080/osec/c5176e377c82/51854
 #EXTINF:0 tvg-id="ext" group-title="Channels INDIA",Republic Bharat
 http://iptvs.life:8080/osec/c5176e377c82/49582
@@ -4808,9 +4806,5 @@ http://hoth.alonhosting.com:1100/stream
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 #EXTINF:-1 group-title="RADIO INDIA",NOSTALGIC BOLLYWOOD 90'S
 https://www.desizoneradio.com/relay3
-
-
-
-
 
 
