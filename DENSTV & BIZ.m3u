@@ -22,6 +22,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
+https://filmovie.github.io/by/trans7.m3u8
+
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
