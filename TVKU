@@ -1707,7 +1707,7 @@ https://v3.siar.us/paltv/live/chunks.m3u8?nimblesessionid=3641
 #EXTINF:-1 tvg-id="TVTabalong.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaYR94l1JJX1lgm1rPM1xGUx3dYjVW7qf7Q&usqp=CAU" group-title="Lokal",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png"group-title="Lokal",Sakti TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="Lokal",Sakti TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/samudera-tv-9861-w360.webp" group-title="Lokal",Samudera TV
