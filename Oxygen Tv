@@ -1,0 +1,142 @@
+#EXTINF:0 tvg-id="ext" group-title="oxygen",OXYGEN.ID
+https://iptv.febianmart.com/play.m3u8?id=oxygentv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",IDX CHANNEL
+https://iptv.febianmart.com/play.m3u8?id=idx
+#EXTINF:0 tvg-id="NETtv.svn" group-title="oxygen",NET TV
+https://iptv.febianmart.com/play.m3u8?id=nettv-hd
+#EXTINF:0 tvg-id="Metro.pl" group-title="oxygen",METRO TV
+https://iptv.febianmart.com/play.m3u8?id=metrotv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",KOMPAS TV
+https://iptv.febianmart.com/play.m3u8?id=kompastv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TVRI NASIONAL
+https://iptv.febianmart.com/play.m3u8?id=tvri
+#EXTINF:0 tvg-id="ext" group-title="oxygen",SCTV
+https://iptv.febianmart.com/play.m3u8?id=sctv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TRANS 7
+https://iptv.febianmart.com/play.m3u8?id=trans7
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TRANS TV
+https://iptv.febianmart.com/play.m3u8?id=transtv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",INDOSIAR
+https://iptv.febianmart.com/play.m3u8?id=indosiar
+#EXTINF:0 tvg-id="ext" group-title="oxygen",ANTV
+https://iptv.febianmart.com/play.m3u8?id=antv
+#EXTINF:0 tvg-id="TVOne.uk" group-title="oxygen",TV ONE
+https://iptv.febianmart.com/play.m3u8?id=tvone
+#EXTINF:0 tvg-id="rtvint" group-title="oxygen",RTV
+https://iptv.febianmart.com/play.m3u8?id=rtv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",JAK TV
+https://iptv.febianmart.com/play.m3u8?id=jaktv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",MOJI TV
+https://iptv.febianmart.com/play.m3u8?id=moji
+#EXTINF:0 tvg-id="ext" group-title="oxygen",DAAI INDONESIA
+https://iptv.febianmart.com/play.m3u8?id=daaitv
+#EXTINF:0 tvg-id="baltijos-lt" group-title="oxygen",BTV
+https://iptv.febianmart.com/play.m3u8?id=btv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",NUSANTARA TV
+https://iptv.febianmart.com/play.m3u8?id=nusantaratv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",VIVA TELEVISI
+https://iptv.febianmart.com/play.m3u8?id=vtv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",JITV
+https://iptv.febianmart.com/play.m3u8?id=jitv
+#EXTINF:0 tvg-id="KTV.uk" group-title="oxygen",KTV
+https://iptv.febianmart.com/play.m3u8?id=ktv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",JPM
+https://iptv.febianmart.com/play.m3u8?id=jpm
+#EXTINF:0 tvg-id="nhk-world" group-title="oxygen",NHK WORLD (HD)
+https://iptv.febianmart.com/play.m3u8?id=nhkworld
+#EXTINF:0 tvg-id="ext" group-title="oxygen",PHOENIX HK
+https://iptv.febianmart.com/play.m3u8?id=phoenixhongkong
+#EXTINF:0 tvg-id="ext" group-title="oxygen",DW TV ASIA
+https://iptv.febianmart.com/play.m3u8?id=dwenglish
+#EXTINF:0 tvg-id="france24" group-title="oxygen",FRANCE 24
+https://iptv.febianmart.com/play.m3u8?id=france24
+#EXTINF:0 tvg-id="ext" group-title="oxygen",ARIRANG WORLD
+https://iptv.febianmart.com/play.m3u8?id=arirangworld
+#EXTINF:0 tvg-id="CCTV4.nws" group-title="oxygen",CCTV 4
+https://iptv.febianmart.com/play.m3u8?id=cctv4asia
+#EXTINF:0 tvg-id="VOA.cl" group-title="oxygen",VOA
+https://iptv.febianmart.com/play.m3u8?id=voa
+#EXTINF:0 tvg-id="ext" group-title="oxygen",CETV 1
+https://iptv.febianmart.com/play.m3u8?id=cetv1
+#EXTINF:0 tvg-id="ext" group-title="oxygen",CGTN DOCUMENTARY
+https://iptv.febianmart.com/play.m3u8?id=cgtndocumentary
+#EXTINF:0 tvg-id="tv5monde" group-title="oxygen",TV5 MONDE
+https://iptv.febianmart.com/play.m3u8?id=tv5monde
+#EXTINF:0 tvg-id="ext" group-title="oxygen",NIPPON TV
+https://iptv.febianmart.com/play.m3u8?id=nihontv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",KBS KOREA
+https://iptv.febianmart.com/play.m3u8?id=kbs-korea
+#EXTINF:0 tvg-id="ext" group-title="oxygen",SALAM TV
+https://iptv.febianmart.com/play.m3u8?id=salamtv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",RODJA TV
+https://iptv.febianmart.com/play.m3u8?id=rodjatv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",U CHANNEL
+https://iptv.febianmart.com/play.m3u8?id=uchannel
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TAWAF TV
+https://iptv.febianmart.com/play.m3u8?id=tawaftv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",QURAN TV
+https://iptv.febianmart.com/play.m3u8?id=qurantv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",INEWS TV
+https://iptv.febianmart.com/play.m3u8?id=inews
+#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="oxygen",AL JAZEERA
+https://iptv.febianmart.com/play.m3u8?id=aljazeera
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="oxygen",TRT WORLD
+https://iptv.febianmart.com/play.m3u8?id=trtworld
+#EXTINF:0 tvg-id="ext" group-title="oxygen",PHOENIX CHINESE
+https://iptv.febianmart.com/play.m3u8?id=phoenixchinese
+#EXTINF:0 tvg-id="ext" group-title="oxygen",CHANNEL NEWS ASIA
+https://iptv.febianmart.com/play.m3u8?id=channelnewsasia
+#EXTINF:0 tvg-id="euro" group-title="oxygen",EURONEWS
+https://iptv.febianmart.com/play.m3u8?id=euronewsasia
+#EXTINF:0 tvg-id="CGTN.cn" group-title="oxygen",CGTN
+https://iptv.febianmart.com/play.m3u8?id=cgtn
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TVBS
+https://iptv.febianmart.com/play.m3u8?id=tvbnews
+#EXTINF:0 tvg-id="bloomberg" group-title="oxygen",BLOOMBERG
+https://iptv.febianmart.com/play.m3u8?id=bloomberg
+#EXTINF:0 tvg-id="cnbc" group-title="oxygen",CNBC
+https://iptv.febianmart.com/play.m3u8?id=cnbc
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="oxygen",B4U MOVIES
+https://iptv.febianmart.com/play.m3u8?id=b4umovieindia
+#EXTINF:0 tvg-id="ext" group-title="oxygen",XING KONG CHINA
+https://iptv.febianmart.com/play.m3u8?id=xingkong
+#EXTINF:0 tvg-id="ext" group-title="oxygen",LOTUS MACAU
+https://iptv.febianmart.com/play.m3u8?id=lotusmacau
+#EXTINF:0 tvg-id="ext" group-title="oxygen",LTN FAMILY
+https://iptv.febianmart.com/play.m3u8?id=ltn-family
+#EXTINF:0 tvg-id="Filmax.pl" group-title="oxygen",FILMAX
+https://iptv.febianmart.com/play.m3u8?id=filmax
+#EXTINF:0 tvg-id="fashion" group-title="oxygen",FASHION TV
+https://iptv.febianmart.com/play.m3u8?id=fashiontv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",CHANNEL V CHINA
+https://iptv.febianmart.com/play.m3u8?id=vchina
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="oxygen",B4U MUSIC
+https://iptv.febianmart.com/play.m3u8?id=b4umusicindia
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="oxygen",INSIGHT TV
+https://iptv.febianmart.com/play.m3u8?id=insight
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TOONMAX
+https://iptv.febianmart.com/play.m3u8?id=toonmax
+#EXTINF:0 tvg-id="ext" group-title="oxygen",SPACETOON
+https://iptv.febianmart.com/play.m3u8?id=spacetoon
+#EXTINF:0 tvg-id="ext" group-title="oxygen",EBS KIDS
+https://iptv.febianmart.com/play.m3u8?id=ebskids
+#EXTINF:0 tvg-id="ext" group-title="oxygen",MENTARI TV
+https://iptv.febianmart.com/play.m3u8?id=mentaritv
+#EXTINF:0 tvg-id="ext" group-title="oxygen",KIDS ZONE PLUS
+https://iptv.febianmart.com/play.m3u8?id=kidszoneplus
+#EXTINF:0 tvg-id="PopTV.svn" group-title="oxygen",POP TV
+https://iptv.febianmart.com/play.m3u8?id=pop
+#EXTINF:0 tvg-id="ext" group-title="oxygen",PLANET FUN
+https://iptv.febianmart.com/play.m3u8?id=planetfun
+#EXTINF:0 tvg-id="ext" group-title="oxygen",TVRI SPORT
+https://iptv.febianmart.com/play.m3u8?id=tvrisport
+#EXTINF:0 tvg-id="ext" group-title="oxygen",DUBAI SPORTS 3
+https://iptv.febianmart.com/play.m3u8?id=dubaisport3
+#EXTINF:0 tvg-id="ext" group-title="oxygen",RED BULL TV
+https://iptv.febianmart.com/play.m3u8?id=redbulltv
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="oxygen",EDGE SPORT
+https://iptv.febianmart.com/play.m3u8?id=edgesport
+
+
+
+
