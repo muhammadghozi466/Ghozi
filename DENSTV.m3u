@@ -7,7 +7,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAKTV
